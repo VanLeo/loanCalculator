@@ -17,9 +17,9 @@ public class User {
       if (answer.equals("Y")||answer.equals("YES")){
           System.out.println("What is the amount you want to loan?");
           int loanAmount = scanner.nextInt();
-          System.out.println("What is your amount of savings in the bank?");
+          System.out.println("What is the amount of savings you have in your bank account?");
           int savingAmount = scanner.nextInt();
-          System.out.println("What is the amount of monthly payments you can afford?");
+          System.out.println("What is the amount of monthly payments that you can afford?");
           int monthlyPayment = scanner.nextInt();
             LoanCalculator loanCalculator = new LoanCalculator();
 
