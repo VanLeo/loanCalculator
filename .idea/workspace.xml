@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="89303a01-4e09-411a-b5ac-d2e16a5b4011" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LoanCalculator/LoanCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LoanCalculator/LoanCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LoanCalculator/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LoanCalculator/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoanCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoanCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

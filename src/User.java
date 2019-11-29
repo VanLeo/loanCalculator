@@ -23,7 +23,7 @@ public class User {
           int monthlyPayment = scanner.nextInt();
             LoanCalculator loanCalculator = new LoanCalculator();
 
-                loanCalculator.calculator(name, age);
+                loanCalculator.calculator(name, age, loanAmount, savingAmount, monthlyPayment);
 
         }else {
             System.exit(1);
